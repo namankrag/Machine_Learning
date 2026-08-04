@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv(r"Prime AIML\Supervised ML\loan_approval_data.csv")
+df = pd.read_csv(r"Supervised Leaning\loan_approval_data.csv")
 
 # print(df.head())
 # print(df.describe())
